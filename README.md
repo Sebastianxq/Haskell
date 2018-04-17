@@ -1,2 +1,2 @@
 # Haskell
-Some simple Haskell projects
+Some simple Haskell Projects created during my Programming Languages Course.
