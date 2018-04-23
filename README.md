@@ -1,5 +1,5 @@
 # Haskell
-Some simple Haskell Projects created during my Programming Languages Course, short descriptions of each are below
+Repository dedicated to some simple Haskell Projects created during my Programming Languages Course, short descriptions of each are below. 
 
 * **computeSum.hs**
   >Finds the sum of all natural numbers below 1000. Could be updated to take in a list of numbers if needed
